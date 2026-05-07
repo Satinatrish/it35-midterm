@@ -1,0 +1,7 @@
+{
+  "name": "it35-midterm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
